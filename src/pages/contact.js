@@ -6,7 +6,8 @@ export default function About() {
       <h1>Contact Us</h1>
       <p>Reach out to us at contact@schemegenie.com</p>
       <nav>
-        <Link href="/">About</Link> |
+        <Link href="/">Home</Link> |
+        <Link href="/about">About</Link> |
         <Link href="/contact">Contact</Link> |
         <Link href="/schemes">Schemes</Link>
       </nav>
